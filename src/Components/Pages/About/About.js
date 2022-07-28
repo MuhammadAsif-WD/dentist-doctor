@@ -8,7 +8,6 @@ const About = () => {
 
       <div className="text-center">
         <h1>My Name Is Asif</h1>
-        <h3>Iam Student of class 10 in ssc batch 2022</h3>
       </div>
       <div>
         <img className="mx-auto xl:w-1/2" src={simple} alt="" />
