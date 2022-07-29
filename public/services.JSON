@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Preventative Dentistry",
+    "price": " $45,000",
+    "description": "Preventive dentistry emphasizes the importance of ongoing hygiene procedures and daily practices to prevent tooth decay and other dental diseases and conditions. Effective preventive dentistry combines at-home oral care by patients with chairside treatments and counseling by dental professionals.",
+    "img": "https://i.ibb.co/2SHbWWm/dentist-icon-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Costmetic Dentistry",
+    "price": "$21,000",
+    "description": "Cosmetic dentistry may involve:the addition of a dental material to teeth or gums – examples: bonding, porcelain veneers (laminates), crowns (caps), gum grafts the removal of tooth structure or gums – examples: enameloplasty, gingivectomy neither adding nor removing dental materials, tooth structure, or gums – examples: teeth whitening (bleaching), laser whitening, gum depigmentationstraightening of teeth accompanied by improvement in appearance of face[6] – orthodonticsveneers, dental laminates - conservative scaling",
+    "img": "https://i.ibb.co/x5GWV88/dentist-icon-2.png"
+  },
+  {
+    "id": 3,
+    "name": "Orthodontics",
+    "price": "$5,000",
+    "description": "Metal braces are the oldest and most common type of orthodontic treatment. Universally available, they offer relatively low cost treatment and fast alignment of teeth. Their only drawback is the high visibility of the metal brackets and wires that constitute the system.Ceramic braces attempt to remedy this by employing brackets that are colored to blend with teeth; however, ceramic brackets are more brittle than metal and also tend to stain noticeably without proper care.Lingual braces are installed behind the teeth, thereby hiding the braces altogether, but these are even costlier because of how hard they are to install and adjust.Invisalign eliminates brackets altogether in favor of clear plastic molds that fit over the teeth. Patients wear each mold for a set time and swap to the next, slightly straighter mold as the teeth align over time. Invisalign can also be removed and replaced by the patient, making it the most comfortable option. The disadvantage here lies in the relative slowness of alignment compared to wires and brackets. Furthermore, wearing Invisalign may not be possible in cases of severe misalignment.",
+    "img": "https://i.ibb.co/n3VJZJV/dentist-icon-3.png"
+  },
+  {
+    "id": 4,
+    "name": "Tooth Whitening",
+    "price": "$500 to $1,000).",
+    "description": "With professional Teeth Whitening treatment, you can enjoy the boost in confidence of a bright, white smile. At LASER DENTAL, we trust the best Teeth Whitening Opalescence BOOST system for best long lasting results. At your Initial appointment, Dr. Shihabur Rahman will discuss about Teeth Whitening treatment. He will also note down your expectations. Now you can get the glamorous smile you have always wanted.",
+    "img": "https://i.ibb.co/fdx0PcF/dentist-icon-4.png"
+  },
+  {
+    "id": 5,
+    "name": "Emergency Care",
+    "price": "$1,200 and $1,300.",
+    "description": "Emergency Care is an essential part of the health system and serves as the first point of contact for many around the world. Especially when there are ...",
+    "img": "https://i.ibb.co/Hp0kdfS/dentist-icon-5.png"
+  },
+  {
+    "id": 6,
+    "name": "Dental Implants",
+    "price": "$1,500 to $2,000",
+    "description": "Dental implants are replacement tooth roots. Implants provide a strong foundation for fixed (permanent) or removable replacement teeth that are made to match your natural teeth.",
+    "img": "https://i.ibb.co/MVKWmT7/dentist-icon-6.png"
+  }
+]
